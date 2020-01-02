@@ -1,26 +1,190 @@
-Parts of an airplane
-----------------------
-  
-* Powerplant  
-* Wings  
-* Elevator -> pitch  
-* Alierons -> yaw  
-* Empennage  
-* Vert STab  
-* Rudders -> roll  
-* Landing Gear  
-* Fuselage
-  * Types
-    * Open Truss - visible struts and bracing- "open"
-    * Semimoncoque - stretched skin (most aircrafts today)
-    * monocoque - skin carries all flight load, any deformation in surface can cause collapse
+
 
 Aerodynamics
 -------------
+            ^ Lift
+             __
+             \  \     _ _
+              \**\ ___\/ \
+<- Thrust   X*#####*+^^\_\  -> Drag
+              o/\  \
+                 \__\
 
-Lift
+            v Weight
+            
+            
+## Lift
+
+- bernoulli's principle (speed of gas is increaseed, decrease in pressure at the point of the increase in speed)
+    - Shape of the wings, rounded on top (camber), more speed -> decrease in pressure -> lift
+    - Increased pressure on bottom of wing, also produce lift
+
+Wing cross section- leading edge, trailing edge, chord, upper camber, lower camber
+
+
+    
+When turning the alierons the drag on the down alieron will be greater, so the airplane yaws towards the opposite side
+
+flaps- increase lift and drag. 
+
+
+1 kt - 6076 ft
+1 statute mile 5280 ft
+
+
+1kt = 1.15 miles
+
+
+Airspeed Indicator
+VNE Never exceed (red line)
+VNO smooth air operations (yellow line)
+normal operation (green)
+flaps operations (white)
+
+altimeter -> based on barometric pressure
+heading indicator -> adjusted to compass every 15 minutes, on level flight, compass to too affected by turning errors. 
+
+
+
+
+4 stroke recirpriocating engine. 
+cylinders, pistons, valve.
+pisons are linked to crakshaft. each cylinder has 2 sparkplugs. 
+
+1. intake stroke. intake open. 
+2. compression. both valves closed
+3. power stroke, fuel+air ignighted
+4. exhaust stroke. exhaust valve open
+
+every 2 revolutions, all cylinders undergo cycle. more cylinders=smoother engine
+
+exhaust system. cooling -> oil cooling and air through engine. 
+
+2 kinds of oils, mineral oil, ashless dispersant oil-> suspends contaminates, drain out with oil
+
+dual magnito system. engine operates separately from electrical systems
+
+propeller is twisted to produce equal thrust from hub to tip
+
+electrical system
+
+- alternator driven by engine, suppllies power to electrical system and charges battery
+- more current at lower engine speed than generators
+
+- master switch
+    - alternator and battery.
+    - avionics master -> power to radios
+    
+    magnetos are driven by engine, engine operates fine even if electrical system dies
+    
+    ammeter-> performance of system, negative _> either overloaded system or disfunctional ammeter, using more power than produced. 
+
+
+carbureted engines
+- fuel primer during engine start, fuel directly into engine cylinders. 
+carburetor: venturi causes rapid pressure decrease.
+venturi takes fuel and vaporizes it. subsitible to icing. 
+
+carb heat: diverts air from exhaust manifold and increases intake air tempreature
+heated intake air less dense, slight power loss
+carb ice forms at high moisture and reduced power settings
+
+
+
+roger/wilco -> I've recived all your transmission
+affermitive -> answer yes to a question. 
+
+Remember the four W's of radio communication: who you are calling, who you are, where you are, and what you want.
+The proper way to initiate communication with ATC is to give your location, aircraft type, altitude, what you want to do, and if you have ATIS.
+
+
+UNICOM is a non-government radio station. UNICOM is an acronym for unified communications, and it's available at most airports which do not have a control tower.
+You can request airport advisory information on the UNICOM frequency. Calls to UNICOM are made by using the airport name and the word UNICOM. For example "Clermont UNICOM." You should be aware that a UNICOM station is not always attended.
+The generic term for the radio channel to use at airports without an operating control tower is common traffic advisory frequency. The CTAF is indicated on aeronautical charts and other publications At a non-tower field, the four W's are still used on initial contact.
+
+
+POC - directly responsible for operation of aircraft
+POC can in case of emergency deviate from any rule. 
+
+flight review every 24 month. look at FAR 91 and proficeny in aircraft
+
+currency for carrying passengers - 3 take offs and landing in the last 90 days full stop
+
+at night 3 take offs and landing at night.
+night - 1 hr after sunsuet, ending at 1 hr before sunrise
+
+no flying within 8 hours of consuming alcohol
+must submit to blood alcohol test. 
+
+can't carry drunk passenger. 
+denial of application for a year.
+
+supplimental oxygen required for all occupants aboce 15,00 ft 
+14,000 require for crew
+12,500 required for crew, if longer than 30 minutes
+
+
+formation is premitted iff agreed with all pocs
+
+aerobatics not allowed over city town settlement, over assembly of people, within class bcde airspace
+within 4 miles of airway, below 1,500 AGL, or when flight visisbility <3miles
+
+parachute must be worn when exceeding 60 degress of bank and/or 30 degrees of pitch.
+parachute packed within 180 days. or 60 if its made from natural fibers
+
+don't drop shit out of airplane? unless precautions are taken
+
+wear your seatbelt if you're a crew. for passengers (taxi, takeoff, landing)
+
+high performance-> engine > 200 horsepower
+complex airplane -> retractable landing gear, flaps, and controllable pitch propeller
+
+turbojet -> weighs over 12,500 lbs
+flight at or over mach1 is prohibited
+
+
+airworthiness cert -> no exp, just maintined
+for money ->  100 hr inspection
+    10 hour expention permitted for travel to maintenance, but is subtracted from the next 100
+not for money -> annual inspection
+
+progressive inspection can replace 100 hr and annual
+
+must be recorded in maintainance records. 
+flight testsed by pilot with private pilot certificate and approved
+
+transponder inspected within 24 month
+
+ELT 
+    analog 121.5 and 243.0 MhZ
+    digitial 406 MHz
+    battery replcaed when 50% of usable life expires or when ELT has been activated for more than 1 hour
+    
+In case of accident
+    accident -> substantial damage, or injury/death. Must notify NTSB immediately
+    incidents
+        must be reported to NTSB immediately: flight control sys malfunction, require crew unable to perform duties, fire, collision in flight, overdue and believed to be in an accident
+    Operator of aircraft has 10 days after accident to file a report
+    incident-> file report when requested by NTSB
+    ASRS aviation safety reporting system. Collects voluntary submitted incidents. Anonimity guarenteed. protects against incidents. non punitive
+        file within 10 days of occurance
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
+    
+    
+
 
   * Air up to 500ft above wing gets sucked down by the low pressure area generated by wing
+ 
   
 Airfoil
 
